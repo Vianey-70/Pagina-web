@@ -1,0 +1,84 @@
+*{
+margin: 3;
+padding: 3;
+box-sixing :border-box;
+}
+body{
+ 
+    height: 100vh;
+background-color:#C3FF93;
+background: radial-gradient(circle, rgb(238,174,202,1) 28% , rgb(148,187,233,1)100%) ;
+font-family: "Roboto", sans-serif;
+font-weigth: 300;
+font-style: oblique;
+}
+
+p{
+color: rgb(9, 9, 9);
+}
+.dagoji{
+
+
+    height: 100 cm;
+    width: 100 cm;
+    margin :40px;
+}
+.aguas{
+
+    height: 100 cm;
+    width: 100 cm;
+    margin :40px; 
+}
+.plitvice{
+
+    height: 100 cm;
+    width: 100 cm;
+    margin :40px; 
+}
+.Cataratas{
+
+    height: 100 cm;
+    width: 100 cm;
+    margin :40px; 
+}
+.azul{
+
+    height: 100 cm;
+    width: 100 cm;
+    margin :40px; 
+    padding: 10px;
+}
+.container{
+display:flex;
+     
+}
+
+.menu{
+    background-color:azure;
+         
+    }
+        .true{
+
+            height: 100 cm;
+            width: 100 cm;
+            margin :40px; 
+            padding: 10px;
+        }
+        .foto{
+
+            height: 100 cm;
+            width: 100 cm;
+            margin :40px; 
+            padding: 10px;
+        }
+        h1{
+           text-align: center;
+           
+            }
+            h2{
+                text-align: center;
+                 }
+                 h3{
+                    text-align: center;
+                     }
+                     
